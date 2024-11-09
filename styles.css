@@ -1,0 +1,7 @@
+.section {
+    margin: 20px; /* Jarak luar */
+    padding: 15px; /* Jarak dalam */
+    background-color: #f9f9f9; /* Warna latar belakang jika diperlukan */
+    border-radius: 8px; /* Sudut melengkung */
+}
+
