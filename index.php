@@ -164,9 +164,8 @@ $conn->close();
                     <div>
                         <h3 class="text-xl font-bold mb-2">SMK XYZ</h3>
                         <p class="text-lg mb-2">
-                            I completed my vocational high school education at SMK XYZ, where I specialized in computer and network engineering. 
-                            During my time there, I developed a strong foundation in IT and programming.
-                        </p>
+                        Lulusan SMK Tamansiswa Kota Mojokerto dengan latar belakang yang kuat dalam organisasi. Selama di sekolah, aktif dalam berbagai kegiatan dan pernah menjabat sebagai Ketua OSIS. Selain itu, juga berpartisipasi dalam beberapa program yang diselenggarakan oleh Dinas Koperasi Kota Mojokerto dan memiliki pengalaman magang di Dinas Pendidikan Kota Mojokerto, yang semakin memperkaya keterampilan dan komitmen dalam bidang pendidikan dan pengembangan diri.
+                    </p>
                     </div>
                 </div>
                 <div class="flex items-start p-4 bg-gray-100 rounded-lg shadow-md">
@@ -176,9 +175,8 @@ $conn->close();
                     <div>
                         <h3 class="text-xl font-bold mb-2">University ABC</h3>
                         <p class="text-lg mb-2">
-                            I pursued my higher education at University ABC, majoring in Computer Science. 
-                            My coursework included advanced topics in software development, data structures, algorithms, and web technologies.
-                        </p>
+                        Mahasiswa Institut Teknologi Adhi Tama Surabaya (ITATS) di semester akhir ini memiliki minat besar dalam bidang data, khususnya data analisis. Selama kuliah, terdapat pengembangan pengetahuan dan keterampilan yang relevan dalam teknologi serta analisis data. Minat dalam data analis semakin berkembang melalui berbagai aktivitas akademik dan pengembangan keterampilan tambahan, seperti menguasai Excel, SQL, dan alat visualisasi data seperti Tableau.
+                    </p>
                     </div>
                 </div>
             </div>
