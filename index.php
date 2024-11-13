@@ -186,7 +186,7 @@ $conn->close();
                         <i class="fas fa-school fa-2x"></i>
                     </div>
                     <div>
-                        <h3 class="text-xl font-bold mb-2">SMK XYZ</h3>
+                        <h3 class="text-xl font-bold mb-2">SMK TAMANSISWA MOJOKERTO</h3>
                         <p class="text-lg mb-2">Lulusan SMK Tamansiswa Kota Mojokerto dengan latar belakang yang kuat dalam organisasi. Selama di sekolah, aktif dalam berbagai kegiatan dan pernah menjabat sebagai Ketua OSIS.</p>
                     </div>
                 </div>
@@ -195,7 +195,7 @@ $conn->close();
                         <i class="fas fa-university fa-2x"></i>
                     </div>
                     <div>
-                        <h3 class="text-xl font-bold mb-2">University ABC</h3>
+                        <h3 class="text-xl font-bold mb-2">INSTITUT TEKNOLOGI ADHI TAMA SURABAYA (ITATS)</h3>
                         <p class="text-lg mb-2">Mahasiswa Institut Teknologi Adhi Tama Surabaya (ITATS) di semester akhir ini memiliki minat besar dalam bidang data, khususnya data analisis.</p>
                     </div>
                 </div>
